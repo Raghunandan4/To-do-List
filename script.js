@@ -1,4 +1,4 @@
-// Turning our JS module into IIFE (Immediately Invoked Function Expression) module :-
+// Turning JS module into IIFE (Immediately Invoked Function Expression) module :-
 
 (function() {
     let tasks = [];
