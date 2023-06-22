@@ -20,12 +20,10 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    /* border: 1px solid #e5e5e5; */
 }
 
 ul li {
     padding: 10px;
-    /* padding-left: 0; */
     display: flex;
     justify-content: space-between;
     align-items: inherit;
